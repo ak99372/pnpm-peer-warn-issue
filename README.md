@@ -1,5 +1,6 @@
 # pnpm-peer-warn-issue
 
+Monorepo with 2 local projects/packages
 1. Project-A adds Project-Common as dependency
 2. Prject-Common has 3 peerDependencies (that Project-A has to install)
 3. PMPM settings (not sure if this is even necessary)
